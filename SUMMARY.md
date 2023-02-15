@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Cex AI](README.md)
+* [Cex AI Exchange](README.md)
 * [Social Media](social-media.md)
 * [Security](security.md)
 * [Buy Cex AI](https://www.pinksale.finance/)
