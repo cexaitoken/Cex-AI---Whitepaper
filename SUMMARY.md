@@ -3,6 +3,7 @@
 * [Cex AI](README.md)
 * [Social Media](social-media.md)
 * [Security](security.md)
+* [Buy Cex AI](https://www.pinksale.finance/)
 
 ## Overview
 
