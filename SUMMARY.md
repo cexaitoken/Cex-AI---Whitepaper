@@ -1,15 +1,14 @@
 # Table of contents
 
-* [Cex AI Exchange](README.md)
-* [Social Media](social-media.md)
-* [Security](security.md)
-* [Buy Cex AI](https://www.pinksale.finance/)
+* [⭕ Cex AI Exchange](README.md)
+* [⭕ Social Media](social-media.md)
+* [⭕ Security](security.md)
+* [📌 Buy Cex AI](https://www.pinksale.finance/)
 
 ## Overview
 
-* [Trading with Cex AI](overview/trading-with-cex-ai.md)
-* [Create a Wallet](overview/create-a-wallet.md)
-* [How to buy CEX-AI ?](overview/how-to-buy-cex-ai.md)
+* [⭕ Create a Wallet](overview/create-a-wallet.md)
+* [⭕ How to buy CEX-AI ?](overview/how-to-buy-cex-ai.md)
 * [Plataform](overview/plataform.md)
 
 ## Features

@@ -3,7 +3,7 @@ cover: .gitbook/assets/3 (9).png
 coverY: 0
 ---
 
-# Cex AI Exchange
+# ⭕ Cex AI Exchange
 
 _We are currently experiencing a time of intense transformations, in which technology has been a protagonist in the development of new solutions capable of revolutionizing the way we conduct our activities. In this context, we are pleased to introduce the first cryptocurrency exchange with artificial intelligence, whose goal is to offer the best for our investors._
 
