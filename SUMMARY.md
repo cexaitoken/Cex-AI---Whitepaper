@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Cex AI](README.md)
+* [Social Media](social-media.md)
+* [Security](security.md)
 
 ## Overview
 
@@ -14,5 +16,10 @@
 * [Bot GPT3 IA](features/bot-gpt3-ia.md)
 * [Bot DALL-E IA](features/bot-dall-e-ia.md)
 * [Copy Trade IA](features/copy-trade-ia.md)
-* [Page 2](features/page-2.md)
-* [Page 1](features/page-1.md)
+* [Apk Copy Trade base in AI](features/apk-copy-trade-base-in-ai.md)
+* [Bot news about Criptocurrencys](features/bot-news-about-criptocurrencys.md)
+* [NFT's Collection](features/nfts-collection.md)
+* [Script fro traders](features/script-fro-traders.md)
+* [Staking](features/staking.md)
+* [Farming](features/farming.md)
+* [Wallet Cex-AI](features/wallet-cex-ai.md)
