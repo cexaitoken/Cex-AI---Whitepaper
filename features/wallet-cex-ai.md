@@ -1,7 +1,8 @@
 ---
 description: Coming soon...
+cover: ../.gitbook/assets/3 (9).png
 coverY: 0
 ---
 
-# Wallet Cex-AI
+# ⭕ Wallet Cex-AI
 

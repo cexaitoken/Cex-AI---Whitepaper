@@ -1,2 +1,6 @@
-# Staking
+---
+coverY: 0
+---
+
+# ⭕ Staking
 
