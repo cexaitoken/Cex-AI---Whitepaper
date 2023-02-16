@@ -20,8 +20,12 @@ _-------------------------------------------------------------------------------
 
 #### [Copy Trader AI](./#copy-trader-ai)
 
-Our AI copy trader bot is a powerful tool that can help users automate and enhance their trades, saving time and improving financial results.
+_Our AI copy trader bot is a powerful tool that can help users automate and enhance their trades, saving time and improving financial results._
 
 #### [Apk copy trader base in AI](./#apk-copy-trader-base-in-ai)
 
-Our AI-based copy trade app can offer many benefits to investors who want to trade more efficiently and with less risk in the financial market.
+_Our AI-based copy trade app can offer many benefits to investors who want to trade more efficiently and with less risk in the financial market._
+
+#### [Script fro Traders ](./#script-fro-traders)
+
+_Our trader script can be a useful tool to help traders make more informed and effective decisions in the financial market, based on automated and personalized market analysis._
