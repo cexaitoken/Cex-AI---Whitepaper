@@ -18,7 +18,7 @@ _-------------------------------------------------------------------------------
 
 ## _Features - CEX AI_
 
-#### [GPT-3](features/bot-gpt3-ia.md) and [DALL-E ](features/bot-dall-e-ia.md)
+#### [GPT-3](features/bot-gpt3-ia.md) and [DALL-E ](features/dall-e-cex-ai.md)
 
 _We will have two bots to assist our investors, namely GPT-3 and DALL-E, which can add value to the cryptocurrency market and, above all, speed up research, whether it be text or image-based._
 
