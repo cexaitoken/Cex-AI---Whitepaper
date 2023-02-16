@@ -18,6 +18,10 @@ _-------------------------------------------------------------------------------
 
 ## _Features - CEX AI_
 
-#### Copy Trader AI
+#### [Copy Trader AI](./#copy-trader-ai)
 
 Our AI copy trader bot is a powerful tool that can help users automate and enhance their trades, saving time and improving financial results.
+
+#### [Apk copy trader base in AI](./#apk-copy-trader-base-in-ai)
+
+Our AI-based copy trade app can offer many benefits to investors who want to trade more efficiently and with less risk in the financial market.
