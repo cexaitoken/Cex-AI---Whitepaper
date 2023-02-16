@@ -18,6 +18,10 @@ _-------------------------------------------------------------------------------
 
 ## _Features - CEX AI_
 
+#### [GPT-3](features/bot-gpt3-ia.md) and [DALL-E ](features/bot-dall-e-ia.md)
+
+_We will have two bots to assist our investors, namely GPT-3 and DALL-E, which can add value to the cryptocurrency market and, above all, speed up research, whether it be text or image-based._
+
 #### [Copy Trader AI](./#copy-trader-ai)
 
 _Our AI copy trader bot is a powerful tool that can help users automate and enhance their trades, saving time and improving financial results._

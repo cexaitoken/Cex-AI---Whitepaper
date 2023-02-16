@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/gitbook banner.png
+cover: broken-reference
 coverY: 0
 ---
 
