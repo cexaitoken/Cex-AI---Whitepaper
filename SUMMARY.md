@@ -13,15 +13,15 @@
 
 ## Features
 
+* [⭕ Farming](features/farming.md)
+* [⭕ Staking](features/staking.md)
 * [⭕ GPT-3 CEX AI](features/bot-gpt3-ia.md)
-* [⭕ DALL-E CEX AI](features/dall-e-cex-ai.md)
+* [⭕ DALL-E CEX AI](features/bot-dall-e-ia.md)
 * [⭕ Copy Trade AI](features/copy-trade-ai.md)
 * [⭕ Apk Copy Trade base in AI](features/apk-copy-trade-base-in-ai.md)
 * [⭕ Bot news about Criptocurrencys](features/bot-news-about-criptocurrencys.md)
 * [⭕ NFT's Collection](features/nfts-collection.md)
 * [⭕ Script fro traders](features/script-fro-traders.md)
-* [⭕ Staking](features/staking.md)
-* [⭕ Farming](features/farming.md)
 * [⭕ Wallet Cex-AI](features/wallet-cex-ai.md)
 
 ## CEX-AI
