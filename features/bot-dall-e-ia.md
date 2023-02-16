@@ -3,5 +3,5 @@ cover: broken-reference
 coverY: 0
 ---
 
-# ⭕ Plataform
+# ⭕ DALL-E CEX IA
 

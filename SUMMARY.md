@@ -13,8 +13,8 @@
 
 ## Features
 
-* [⭕ GPT-3 CEX AI](features/gpt-3-cex-ai.md)
-* [⭕ DALL-E CEX IA](features/dall-e-cex-ia.md)
+* [⭕ GPT-3 CEX AI](features/bot-gpt3-ia.md)
+* [⭕ DALL-E CEX IA](features/bot-dall-e-ia.md)
 * [⭕ Copy Trade IA](features/copy-trade-ia.md)
 * [⭕ Apk Copy Trade base in AI](features/apk-copy-trade-base-in-ai.md)
 * [⭕ Bot news about Criptocurrencys](features/bot-news-about-criptocurrencys.md)
