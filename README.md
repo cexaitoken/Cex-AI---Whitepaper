@@ -13,4 +13,11 @@ _Through the use of advanced algorithms and machine learning, our platform is ab
 
 ## _Mission_
 
-_Our mission is to provide a differentiated investment experience, in which technology combines with human knowledge to offer customized and efficient solutions for each of our users. Therefore, we invite everyone to get to know our platform and experience the advantages of investing in an exchange that puts artificial intelligence at the service of investment._
+_Our mission is to provide a differentiated investment experience, in which technology combines with human knowledge to offer customized and efficient solutions for each of our users. Therefore, we invite everyone to get to know our platform and experience the advantages of investing in an exchange that puts artificial intelligence at the service of investment._\
+_-----------------------------------------------------------------------------------------------------_
+
+## _Features - CEX AI_
+
+#### Copy Trader AI
+
+Our AI copy trader bot is a powerful tool that can help users automate and enhance their trades, saving time and improving financial results.

@@ -3,19 +3,19 @@
 * [⭕ Cex AI Exchange](README.md)
 * [⭕ Social Media](social-media.md)
 * [⭕ Security](security.md)
+* [⭕ Our mission](our-mission.md)
 * [📌 Buy Cex AI](https://www.pinksale.finance/)
 
 ## Overview
 
 * [⭕ Create a Wallet](overview/create-a-wallet.md)
-* [⭕ How to buy CEX-AI ?](overview/how-to-buy-cex-ai.md)
 * [⭕ Plataform](overview/plataform.md)
 
 ## Features
 
 * [⭕ GPT-3 CEX AI](features/bot-gpt3-ia.md)
 * [⭕ DALL-E CEX IA](features/bot-dall-e-ia.md)
-* [⭕ Copy Trade IA](features/copy-trade-ia.md)
+* [⭕ Copy Trade AI](features/copy-trade-ai.md)
 * [⭕ Apk Copy Trade base in AI](features/apk-copy-trade-base-in-ai.md)
 * [⭕ Bot news about Criptocurrencys](features/bot-news-about-criptocurrencys.md)
 * [⭕ NFT's Collection](features/nfts-collection.md)
