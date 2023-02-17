@@ -26,6 +26,10 @@ _The application of the swap concept in CEX AI allows users to exchange cryptocu
 
 _The application of Web 3 concepts at CEX AI allows the platform to create a more decentralized, secure, and efficient infrastructure for its users, offering a more transparent, trustworthy, and flexible trading experience._
 
+#### __[_NFT's Collection_](./#nfts-collection)__
+
+_The application of CEX AI's NFTs is to provide new trading opportunities for users while also generating more revenue for the platform._
+
 #### [GPT-3](features/bot-gpt3-ia.md) and [DALL-E ](features/bot-dall-e-ia.md)
 
 _We will have two bots to assist our investors, namely GPT-3 and DALL-E, which can add value to the cryptocurrency market and, above all, speed up research, whether it be text or image-based._
