@@ -25,7 +25,7 @@
 * [⭕ Copy Trade AI](features/copy-trade-ai.md)
 * [⭕ Apk Copy Trade base in AI](features/apk-copy-trade-base-in-ai.md)
 * [⭕ DALL-E CEX AI](features/bot-dall-e-ia.md)
-* [⭕ Script fro traders](features/script-fro-traders.md)
+* [⭕ Script for traders](products/script-for-traders.md)
 * [⭕ NFT's Collection](features/nfts-collection.md)
 * [⭕ Bot news about Criptocurrencys](features/bot-news-about-criptocurrencys.md)
 * [⭕ Wallet Cex-AI](features/wallet-cex-ai.md)

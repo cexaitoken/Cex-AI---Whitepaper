@@ -4,9 +4,9 @@ cover: ../.gitbook/assets/gitbook banner.png
 coverY: 0
 ---
 
-# ⭕ Script fro traders
+# ⭕ Script for traders
 
-## Script fro traders
+## Script for traders
 
 _We will bring to our investors through AI a trader script where we have developed a computer program that uses algorithms to generate trading suggestions for traders based on market analysis and historical data._
 
