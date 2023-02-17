@@ -16,13 +16,17 @@ _Through the use of advanced algorithms and machine learning, our platform is ab
 _Our mission is to provide a differentiated investment experience, in which technology combines with human knowledge to offer customized and efficient solutions for each of our users. Therefore, we invite everyone to get to know our platform and experience the advantages of investing in an exchange that puts artificial intelligence at the service of investment._\
 _-----------------------------------------------------------------------------------------------------_
 
-## _Features - CEX AI_
+## _Features / Products - CEX AI_
 
-#### __[_Swap_](features/swap.md) __&#x20;
+#### __[_Swap  in CEX AI_](features/swap.md)__
 
 _The application of the swap concept in CEX AI allows users to exchange cryptocurrencies quickly, easily, and safely, offering more options and flexibility to manage their cryptocurrency portfolios._
 
-#### [GPT-3](products/gpt-3-cex-ai.md) and [DALL-E ](products/dall-e-cex-ai.md)
+#### __[_Web 3 in CEX AI_](features/web-3.md)__
+
+_The application of Web 3 concepts at CEX AI allows the platform to create a more decentralized, secure, and efficient infrastructure for its users, offering a more transparent, trustworthy, and flexible trading experience._
+
+#### [GPT-3](features/bot-gpt3-ia.md) and [DALL-E ](features/bot-dall-e-ia.md)
 
 _We will have two bots to assist our investors, namely GPT-3 and DALL-E, which can add value to the cryptocurrency market and, above all, speed up research, whether it be text or image-based._
 

@@ -17,17 +17,18 @@
 * [⭕ Staking](features/staking.md)
 * [⭕ Swap](features/swap.md)
 * [⭕ DAO Governance](features/dao-governance.md)
+* [⭕ Web 3](features/web-3.md)
 
 ## Products
 
-* [⭕ GPT-3 CEX AI](products/gpt-3-cex-ai.md)
-* [⭕ Copy Trade AI](products/copy-trade-ai.md)
-* [⭕ Apk Copy Trade base in AI](products/apk-copy-trade-base-in-ai.md)
-* [⭕ DALL-E CEX AI](products/dall-e-cex-ai.md)
-* [⭕ Script fro traders](products/script-fro-traders.md)
-* [⭕ NFT's Collection](products/nfts-collection.md)
-* [⭕ Bot news about Criptocurrencys](products/bot-news-about-criptocurrencys.md)
-* [⭕ Wallet Cex-AI](products/wallet-cex-ai.md)
+* [⭕ GPT-3 CEX AI](features/bot-gpt3-ia.md)
+* [⭕ Copy Trade AI](features/copy-trade-ai.md)
+* [⭕ Apk Copy Trade base in AI](features/apk-copy-trade-base-in-ai.md)
+* [⭕ DALL-E CEX AI](features/bot-dall-e-ia.md)
+* [⭕ Script fro traders](features/script-fro-traders.md)
+* [⭕ NFT's Collection](features/nfts-collection.md)
+* [⭕ Bot news about Criptocurrencys](features/bot-news-about-criptocurrencys.md)
+* [⭕ Wallet Cex-AI](features/wallet-cex-ai.md)
 
 ## CEX-AI
 
