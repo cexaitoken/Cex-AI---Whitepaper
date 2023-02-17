@@ -18,6 +18,10 @@ _-------------------------------------------------------------------------------
 
 ## _Features - CEX AI_
 
+#### __[_Swap_](features/swap.md) __&#x20;
+
+_The application of the swap concept in CEX AI allows users to exchange cryptocurrencies quickly, easily, and safely, offering more options and flexibility to manage their cryptocurrency portfolios._
+
 #### [GPT-3](features/bot-gpt3-ia.md) and [DALL-E ](features/bot-dall-e-ia.md)
 
 _We will have two bots to assist our investors, namely GPT-3 and DALL-E, which can add value to the cryptocurrency market and, above all, speed up research, whether it be text or image-based._

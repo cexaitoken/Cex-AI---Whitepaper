@@ -15,8 +15,8 @@
 
 * [⭕ Farming](features/farming.md)
 * [⭕ Staking](features/staking.md)
-* [⭕ DAO Governance](features/dao-governance.md)
 * [⭕ Swap](features/swap.md)
+* [⭕ DAO Governance](features/dao-governance.md)
 * [⭕ GPT-3 CEX AI](features/bot-gpt3-ia.md)
 * [⭕ DALL-E CEX AI](features/bot-dall-e-ia.md)
 * [⭕ Copy Trade AI](features/copy-trade-ai.md)
