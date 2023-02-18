@@ -27,7 +27,7 @@
 * [⭕ DALL-E CEX AI](features/bot-dall-e-ia.md)
 * [⭕ Script for traders](products/script-for-traders.md)
 * [⭕ NFT's Collection](features/nfts-collection.md)
-* [⭕ Bot news about Criptocurrencys](features/bot-news-about-criptocurrencys.md)
+* [⭕ CEX AI News](products/cex-ai-news.md)
 * [⭕ Wallet Cex-AI](features/wallet-cex-ai.md)
 
 ## CEX-AI
