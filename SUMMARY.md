@@ -32,7 +32,7 @@
 
 ## CEX-AI
 
-* [▪ Token CEX-AI](cex-ai/token-cex-ai.md)
 * [▪ Tokenomics](cex-ai/tokenomics.md)
 * [▪ Token Metrics and Taxes](cex-ai/token-metrics-and-taxes.md)
+* [▪ Token CEX-AI](cex-ai/token-cex-ai.md)
 * [▪ Roadmap](cex-ai/roadmap.md)
