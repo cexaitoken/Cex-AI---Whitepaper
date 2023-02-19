@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/gitbook banner.png
+cover: ../../.gitbook/assets/gitbook banner.png
 coverY: 0
 ---
 
@@ -14,3 +14,5 @@ _In CEX AI, the farming concept will be applied in several ways. One way is thro
 #### _Farming in CEX AI_
 
 _In CEX AI, the farming concept is through liquidity pools. Our users will be able to deposit two different cryptocurrencies into a liquidity pool on CEX AI and receive rewards in the form of a new token that represents their participation in the pool. This new token can be traded on CEX AI, which allows users to profit from the token's increased value._
+
+__

@@ -18,7 +18,7 @@ _-------------------------------------------------------------------------------
 
 ## _Features / Products - CEX AI_
 
-#### __[_Swap  in CEX AI_](features/swap.md)__
+#### __[_Swap  in CEX AI_](broken-reference)__
 
 _The application of the swap concept in CEX AI allows users to exchange cryptocurrencies quickly, easily, and safely, offering more options and flexibility to manage their cryptocurrency portfolios._
 

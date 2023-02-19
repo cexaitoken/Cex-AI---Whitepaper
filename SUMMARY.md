@@ -13,10 +13,12 @@
 
 ## Features
 
-* [⭕ Farming](features/farming.md)
-* [⭕ Staking](features/staking.md)
-* [⭕ Swap](features/swap.md)
-* [⭕ DAO Governance](features/dao-governance.md)
+* [⭕ Farming](features/farming/README.md)
+  * [⭕ Token Farming](features/farming/token-farming.md)
+  * [⭕ Farming](https://dapp.cexai.io/farm)
+* [⭕ Staking](features/staking/README.md)
+  * [⭕ Token Staking](features/staking/token-staking.md)
+  * [⭕ Staking](https://dapp.cexai.io/)
 * [⭕ Web 3](features/web-3.md)
 
 ## Products
@@ -24,11 +26,11 @@
 * [⭕ GPT-3 CEX AI](features/bot-gpt3-ia.md)
 * [⭕ Copy Trade AI](features/copy-trade-ai.md)
 * [⭕ Apk Copy Trade base in AI](features/apk-copy-trade-base-in-ai.md)
-* [⭕ DALL-E CEX AI](features/bot-dall-e-ia.md)
 * [⭕ Script for traders](products/script-for-traders.md)
 * [⭕ NFT's Collection](features/nfts-collection.md)
 * [⭕ CEX AI News](products/cex-ai-news.md)
 * [⭕ Wallet Cex-AI](features/wallet-cex-ai.md)
+* [⭕ DALL-E CEX AI](features/bot-dall-e-ia.md)
 
 ## CEX-AI
 
