@@ -16,11 +16,7 @@ _Through the use of advanced algorithms and machine learning, our platform is ab
 _Our mission is to provide a differentiated investment experience, in which technology combines with human knowledge to offer customized and efficient solutions for each of our users. Therefore, we invite everyone to get to know our platform and experience the advantages of investing in an exchange that puts artificial intelligence at the service of investment._\
 _-----------------------------------------------------------------------------------------------------_
 
-## _Features / Products - CEX AI_
-
-#### __[_Swap  in CEX AI_](broken-reference)__
-
-_The application of the swap concept in CEX AI allows users to exchange cryptocurrencies quickly, easily, and safely, offering more options and flexibility to manage their cryptocurrency portfolios._
+## _Products - CEX AI_
 
 #### __[_Web 3 in CEX AI_](features/web-3.md)__
 
@@ -46,12 +42,12 @@ _Our AI-based copy trade app can offer many benefits to investors who want to tr
 
 _Our trader script can be a useful tool to help traders make more informed and effective decisions in the financial market, based on automated and personalized market analysis._
 
-#### [Bot news about Criptocurrencys](./#bot-news-about-criptocurrencys)
+#### [CEX AI News](products/cex-ai-news.md)
 
 _Our cryptocurrency news bot can be a valuable tool for cryptocurrency investors who want to stay up-to-date on the latest market news and trends. With our bot, investors can make more informed and strategic decisions, which can lead to better investment outcomes in the cryptocurrency market._
 
-Wallet&#x20;
+#### [Wallet AI](features/wallet-cex-ai.md)
 
-Our wallet AI integrates with the CEX AI to improve security, efficiency, and the user experience, making the trading of cryptocurrencies and other digital assets more accessible and user-friendly.
+_Our wallet AI integrates with the CEX AI to improve security, efficiency, and the user experience, making the trading of cryptocurrencies and other digital assets more accessible and user-friendly._
 
 \
