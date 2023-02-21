@@ -16,6 +16,8 @@ _Through the use of advanced algorithms and machine learning, our platform is ab
 _Our mission is to provide a differentiated investment experience, in which technology combines with human knowledge to offer customized and efficient solutions for each of our users. Therefore, we invite everyone to get to know our platform and experience the advantages of investing in an exchange that puts artificial intelligence at the service of investment._\
 _-----------------------------------------------------------------------------------------------------_
 
+{% embed url="https://youtu.be/pv5SxxCPy6g" %}
+
 ## _Products - CEX AI_
 
 #### __[_Web 3 in CEX AI_](features/web-3.md)__
@@ -26,7 +28,7 @@ _The application of Web 3 concepts at CEX AI allows the platform to create a mor
 
 _The application of CEX AI's NFTs is to provide new trading opportunities for users while also generating more revenue for the platform._
 
-#### [GPT-3](features/bot-gpt3-ia.md) and [DALL-E ](features/bot-dall-e-ia.md)
+#### [GPT-3](products/gpt-3-cex-ai/) and [DALL-E ](products/dall-e-cex-ai/)
 
 _We will have two bots to assist our investors, namely GPT-3 and DALL-E, which can add value to the cryptocurrency market and, above all, speed up research, whether it be text or image-based._
 

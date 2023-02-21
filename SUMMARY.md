@@ -23,15 +23,17 @@
 
 ## Products
 
-* [⭕ GPT-3 CEX AI](features/bot-gpt3-ia.md)
-* [⭕ Copy Trade AI](features/copy-trade-ai.md)
-* [⭕ Apk Copy Trade base in AI](features/apk-copy-trade-base-in-ai.md)
-* [⭕ Script for traders](products/script-for-traders.md)
 * [⭕ NFT's Collection](products/nfts-collection/README.md)
   * [⭕ Dapp NFT\`s](https://dapp.cexai.io/nfts)
 * [⭕ CEX AI News](products/cex-ai-news.md)
+* [⭕ Copy Trade AI](features/copy-trade-ai.md)
+* [⭕ GPT-3 CEX AI](products/gpt-3-cex-ai/README.md)
+  * [⭕ GPT-3 Cex AI Screenshots](products/gpt-3-cex-ai/gpt-3-cex-ai-screenshots.md)
+* [⭕ DALL-E CEX AI](products/dall-e-cex-ai/README.md)
+  * [⭕ DALL-E Cex AI Screenshorts](products/dall-e-cex-ai/dall-e-cex-ai-screenshorts.md)
+* [⭕ Apk Copy Trade base in AI](features/apk-copy-trade-base-in-ai.md)
+* [⭕ Script for traders](products/script-for-traders.md)
 * [⭕ Wallet Cex-AI](features/wallet-cex-ai.md)
-* [⭕ DALL-E CEX AI](features/bot-dall-e-ia.md)
 
 ## CEX-AI
 
