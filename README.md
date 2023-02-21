@@ -28,7 +28,7 @@ _The application of Web 3 concepts at CEX AI allows the platform to create a mor
 
 _The application of CEX AI's NFTs is to provide new trading opportunities for users while also generating more revenue for the platform._
 
-#### [GPT-3](products/gpt-3-cex-ai/) and [DALL-E ](products/dall-e-cex-ai/)
+#### [GPT-3](features/bot-gpt3-ia.md) and [DALL-E ](features/bot-dall-e-ia.md)
 
 _We will have two bots to assist our investors, namely GPT-3 and DALL-E, which can add value to the cryptocurrency market and, above all, speed up research, whether it be text or image-based._
 
@@ -44,7 +44,7 @@ _Our AI-based copy trade app can offer many benefits to investors who want to tr
 
 _Our trader script can be a useful tool to help traders make more informed and effective decisions in the financial market, based on automated and personalized market analysis._
 
-#### [CEX AI News](products/cex-ai-news.md)
+#### [CEX AI News](products/cex-ai-news/)
 
 _Our cryptocurrency news bot can be a valuable tool for cryptocurrency investors who want to stay up-to-date on the latest market news and trends. With our bot, investors can make more informed and strategic decisions, which can lead to better investment outcomes in the cryptocurrency market._
 

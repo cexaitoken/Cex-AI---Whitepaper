@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/gitbook banner.png
+cover: ../../.gitbook/assets/gitbook banner.png
 coverY: 0
 ---
 
-# ⭕ Bot news about Criptocurrencys
+# ⭕ CEX AI News
 
 ## Bot news about Criptocurrencys
 
