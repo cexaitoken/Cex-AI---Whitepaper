@@ -34,7 +34,8 @@
 * [⭕ DALL-E CEX AI](features/bot-dall-e-ia.md)
   * [⭕ DALL-E Cex AI Screenshorts](products/dall-e-cex-ai/dall-e-cex-ai-screenshorts.md)
   * [⭕ DALL-E Cex AI](https://t.me/cexaidalle\_bot)
-* [⭕ Apk Copy Trade base in AI](features/apk-copy-trade-base-in-ai.md)
+* [⭕ Apk Copy Trade base in AI](products/apk-copy-trade-base-in-ai/README.md)
+  * [⭕ Apk Copy Trade Screenshots](products/apk-copy-trade-base-in-ai/apk-copy-trade-screenshots.md)
 * [⭕ Script for traders](products/script-for-traders.md)
 * [⭕ Wallet Cex-AI](features/wallet-cex-ai.md)
 
