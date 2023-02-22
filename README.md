@@ -44,7 +44,7 @@ _Our AI-based copy trade app can offer many benefits to investors who want to tr
 
 _Our trader script can be a useful tool to help traders make more informed and effective decisions in the financial market, based on automated and personalized market analysis._
 
-#### [CEX AI News](products/cex-ai-news/)
+#### [CEX AI News](products/cex-ai-news.md)
 
 _Our cryptocurrency news bot can be a valuable tool for cryptocurrency investors who want to stay up-to-date on the latest market news and trends. With our bot, investors can make more informed and strategic decisions, which can lead to better investment outcomes in the cryptocurrency market._
 

@@ -25,7 +25,7 @@
 
 * [⭕ NFT's Collection](products/nfts-collection/README.md)
   * [⭕ Dapp NFT\`s](https://dapp.cexai.io/nfts)
-* [⭕ CEX AI News](products/cex-ai-news/README.md)
+* [⭕ CEX AI News](products/cex-ai-news.md)
   * [⭕ CEX News Screenshots](products/cex-ai-news/cex-news-screenshots.md)
 * [⭕ Copy Trade AI](features/copy-trade-ai.md)
 * [⭕ GPT-3 CEX AI](features/bot-gpt3-ia.md)
