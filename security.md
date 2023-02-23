@@ -10,3 +10,5 @@ _ICO projects that have a KYC (Know Your Customer) process and auditing procedur
 {% embed url="https://pinksale.notion.site/Cex-Ai-KYC-Verification-c75d64239d044d3a86a89746decfc6bb" %}
 KYC
 {% endembed %}
+
+{% embed url="https://blocksafu.com/project-detail/0x3A74a9032f731D504f10E02d7247d23B939EA4f6&network=arbitrum" %}
