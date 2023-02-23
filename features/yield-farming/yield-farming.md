@@ -3,9 +3,9 @@ cover: ../../.gitbook/assets/gitbook banner.png
 coverY: 0
 ---
 
-# ⭕ Token Farming
+# ⭕ Yield Farming
 
-<figure><img src="../../.gitbook/assets/Captura de Tela 2023-02-19 às 01.01.18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de Tela 2023-02-23 às 18.40.14.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Captura de Tela 2023-02-19 às 01.01.41.png" alt=""><figcaption></figcaption></figure>
 
