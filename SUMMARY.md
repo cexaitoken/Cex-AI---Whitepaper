@@ -14,9 +14,11 @@
 
 * [⭕ Yield Farming](features/yield-farming/README.md)
   * [⭕ Yield Farming](features/yield-farming/yield-farming.md)
+  * [⭕ Pools Yield Farming](features/yield-farming/pools-yield-farming.md)
   * [⭕ Yield Farming](https://dapp.cexai.io/farm)
 * [⭕ Staking](features/staking/README.md)
   * [⭕ Token Staking](features/staking/token-staking.md)
+  * [⭕ Pools Staking](features/staking/pools-staking.md)
   * [⭕ Staking](https://dapp.cexai.io/)
 * [⭕ Web 3](features/web-3.md)
 
