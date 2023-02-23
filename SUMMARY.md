@@ -4,11 +4,10 @@
 * [⭕ Social Media](social-media.md)
 * [⭕ Security](security.md)
 * [⭕ Our mission](our-mission.md)
-* [📌 Buy Cex AI](https://www.pinksale.finance/)
+* [📌 Buy Cex AI](https://www.pinksale.finance/launchpad/0x62a0D1E333E27839c87db9d03fE996B5294EB15b?chain=Arbitrum)
 
 ## Overview
 
-* [⭕ Create a Wallet](overview/create-a-wallet.md)
 * [⭕ Plataform](overview/plataform.md)
 
 ## Features

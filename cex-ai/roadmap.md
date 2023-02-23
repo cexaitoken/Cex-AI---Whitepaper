@@ -38,7 +38,6 @@ coverY: 0
 * [ ] Apk copy trade functional tests  - v1
 * [ ] Marketing for NFT's
 * [ ] Market updates, for the implementation of new products
-* [ ] ETH contract launch
 * [ ] &#x20;Cex AI  Pools
 * [ ] Insurance Protocol tests Evaluation Pool&#x20;
 
