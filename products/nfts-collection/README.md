@@ -19,3 +19,7 @@ _NFTs (Non-Fungible Tokens) are digital tokens that represent unique and non-int
 _In addition, CEX AI aims to differentiate itself from other platforms by offering a new asset class for users to trade, which can increase the user base and generate more revenue for the company._
 
 The application of CEX AI's NFTs is to provide new trading opportunities for users while also generating more revenue for the platform.
+
+{% hint style="info" %}
+Initially we will have 30 Firstdrop NFT\`s that will be available in the opensea.
+{% endhint %}
