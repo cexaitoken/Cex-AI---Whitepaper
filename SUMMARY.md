@@ -12,9 +12,9 @@
 
 ## Features
 
-* [⭕ Farming](features/farming/README.md)
-  * [⭕ Token Farming](features/farming/token-farming.md)
-  * [⭕ Farming](https://dapp.cexai.io/farm)
+* [⭕ Yield Farming](features/yield-farming/README.md)
+  * [⭕ Yield Farming](features/yield-farming/yield-farming.md)
+  * [⭕ Yield Farming](https://dapp.cexai.io/farm)
 * [⭕ Staking](features/staking/README.md)
   * [⭕ Token Staking](features/staking/token-staking.md)
   * [⭕ Staking](https://dapp.cexai.io/)
