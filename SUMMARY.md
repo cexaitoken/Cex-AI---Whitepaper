@@ -8,7 +8,7 @@
 
 ## Overview
 
-* [⭕ Plataform](overview/plataform.md)
+* [⭕ Platform](overview/platform.md)
 
 ## Features
 
