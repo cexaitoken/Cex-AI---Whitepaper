@@ -4,7 +4,7 @@
 * [⭕ Social Media](social-media.md)
 * [⭕ Security](security.md)
 * [⭕ Our mission](our-mission.md)
-* [📌 Buy Cex AI](https://www.pinksale.finance/launchpad/0x62a0D1E333E27839c87db9d03fE996B5294EB15b?chain=Arbitrum)
+* [📌 Buy Cex AI](https://www.pinksale.finance/launchpad/0xbb9344fc38257C585843818dB5d69Ca011f672e0?chain=Arbitrum)
 
 ## Overview
 

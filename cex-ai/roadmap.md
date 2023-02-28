@@ -21,11 +21,11 @@ coverY: 0
 
 * [ ] PancakeSwap listing
 * [ ] Development of Copy trader, script fro traders - v1
-* [ ] Marketing on Twitter&#x20;
+* [x] Marketing on Twitter&#x20;
 * [ ] Collection NFT\`s
 * [ ] AMA on best telegram groups&#x20;
 * [ ] Contract with influencers
-* [ ] CMC and Coingeko Listing&#x20;
+* [x] CMC and Coingeko Listing&#x20;
 * [ ] Fair launch on Pinksale&#x20;
 * [ ] Development bot new about criptocurrencys
 * [ ] Whitepaper  - v2 Development
