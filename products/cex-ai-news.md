@@ -5,7 +5,7 @@ coverY: 0
 
 # ⭕ CEX AI News
 
-## Bot news about Criptocurrencys
+## Bot news about Cryptocurrencies
 
 _The importance of having a bot that provides the best news in cryptocurrencies is that, since the cryptocurrency market is highly volatile and unpredictable, it is crucial for investors to always be up-to-date on the latest market news and trends in order to make informed decisions._
 
