@@ -12,3 +12,10 @@ KYC
 {% endembed %}
 
 {% embed url="https://blocksafu.com/project-detail/0x3A74a9032f731D504f10E02d7247d23B939EA4f6&network=arbitrum" %}
+AUDIT
+{% endembed %}
+
+{% embed url="https://coinsult.net/safu_report/cex-ai/" %}
+SAFU
+{% endembed %}
+
