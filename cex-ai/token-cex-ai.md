@@ -7,7 +7,7 @@ coverY: 0
 
 ## _BUY $ CEX-AI $_&#x20;
 
-{% embed url="https://www.pinksale.finance/launchpad/0xbb9344fc38257C585843818dB5d69Ca011f672e0?chain=Arbitrum" %}
+{% embed url="https://www.pinksale.finance/launchpad/0xf7D5eE2826D70db03Be7f8d5B383Aa66D76f62D9?chain=Arbitrum" %}
 
 {% embed url="https://bscscan.com/address/0x3a74a9032f731d504f10e02d7247d23b939ea4f6" %}
 Token CEX AI

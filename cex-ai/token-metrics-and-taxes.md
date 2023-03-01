@@ -8,11 +8,12 @@ coverY: 0
 ## Token Metrics -CEX-AI
 
 * Copy Trade AI - 12%
-* Staking - 12%
+* Staking - 22%
 * Farming - 12%
-* Liquidity -19.573798%
-* Presale - 40.399996%
-* Team - 4.026206%
+* Liquidity -13.68%
+* Presale - 24%
+* Team - 5.2014%
+* New Implementations - 11.1186%
 
 ## Taxes - CEX-AI
 

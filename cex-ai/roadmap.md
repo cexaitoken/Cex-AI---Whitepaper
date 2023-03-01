@@ -13,7 +13,7 @@ coverY: 0
 * [x] Staking protocol - v1
 * [x] Farming protocol - v1
 * [x] Bot Development ( GPT3, DALL-E) v1
-* [x] KYC & Audit
+* [x] KYC & Audit & SAFU
 * [x] Apk copy trade base in AI
 * [ ] Testing phase of the staking, farming and bot's platforms v1
 
